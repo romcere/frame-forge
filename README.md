@@ -8,6 +8,8 @@
 [![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green?logo=qt)](https://pypi.org/project/PyQt5/)
 [![OpenCV](https://img.shields.io/badge/CV-OpenCV-red?logo=opencv)](https://pypi.org/project/opencv-python/)
 
+</div>
+
 ---
 
 ## 📖 简介
